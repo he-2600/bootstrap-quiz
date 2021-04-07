@@ -1,0 +1,52 @@
+.boot-stap{
+    max-width: 1400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar-expand-lg{
+    max-width: 1000px;
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: flex-end;
+   
+}
+
+
+.navbar{
+    min-height: 150px;
+}
+
+
+
+.bg-primary{
+   
+    max-width: 1000px;
+    width: 100%;
+    
+}
+
+
+
+.container{
+    background-color: white;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+
+.alert{
+    max-width: 1000px;
+    width: 100%;
+    
+    background-color: rgb(219, 224, 240);
+}
